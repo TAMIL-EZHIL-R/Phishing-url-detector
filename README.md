@@ -124,18 +124,19 @@ phishing-url-detector/
 │── scaler.pkl
 │
 │── extension/
-       │──background.js
-       │──content.js
-       │──manifest.json
-       │──popup.css
-       │──popup.html
-       │──popup.js
+│ ├── background.js
+│ ├── content.js
+│ ├── manifest.json
+│ ├── popup.css
+│ ├── popup.html
+│ ├── popup.js
+│
 │── images/
-       │──safe-phishing-detection.png
-       │──unsafe-phishing-detection.png
+│ ├── safe-phishing-detection.png
+│ ├── unsafe-phishing-detection.png
+│
 │── requirements.txt
 │── README.md
-
 
 
 

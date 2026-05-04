@@ -91,6 +91,14 @@ The system detects malicious URLs and alerts the user instantly.
 
 ---
 
+## 🎥 Demo Video
+
+Watch the full working demo of the real-time phishing detection system:
+
+👉 https://youtu.be/Ez4WKyc06Dc
+
+---
+
 ## ⚙️ Backend Server
 
 The system runs a local backend server to handle real-time URL classification.

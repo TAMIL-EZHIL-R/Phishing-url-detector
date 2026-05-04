@@ -185,6 +185,16 @@ python app.py
 
 ---
 
+## ⚙️ How It Works
+
+1. User hovers over a URL  
+2. Extension captures the link  
+3. Sends request to backend server  
+4. Model analyzes URL features  
+5. Result displayed as popup
+
+---
+
 ## 💡 Features
 - 🔍 Real-time phishing detection  
 - ⚡ Instant response system  
@@ -204,6 +214,11 @@ python app.py
 
 ## 🎓 Research Relevance
 This project reflects a strong interest in **cybersecurity and intelligent systems**, focusing on real-time threat detection using machine learning.
+
+---
+## 🚀 Conclusion
+
+This project demonstrates a complete end-to-end machine learning system combining real-time detection, backend processing, and browser integration for practical cybersecurity applications.
 
 ---
 

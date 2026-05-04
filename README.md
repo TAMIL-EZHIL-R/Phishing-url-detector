@@ -80,14 +80,14 @@ The hybrid model achieves high accuracy and strong generalization.
 ### ✅ Safe Link Detection
 The system detects legitimate URLs and displays a safe indication.
 
-![Safe Detection](images/safe-detection.png)
+![Safe Detection](images/safe-phishing-detection.png)
 
 ---
 
 ### ⚠️ Phishing Detection
 The system detects malicious URLs and alerts the user instantly.
 
-![Phishing Detection](images/phishing.png)
+![Phishing Detection](images/unsafe-phishing-detection.png)
 
 ---
 

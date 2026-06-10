@@ -75,7 +75,7 @@ The hybrid model achieves high accuracy and strong generalization.
 
 ---
 
-## 📸 Demo / Screenshots
+## 📸 Demo / Screenshot
 
 ### ✅ Safe Link Detection
 The system detects legitimate URLs and displays a safe indication.

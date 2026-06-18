@@ -62,7 +62,7 @@ User Hover → URL Capture → Backend Server → Feature Extraction → Hybrid 
 
 ---
 
-## 📊 Results
+## 📊 Result
 
 **Hybrid Model Performance:**
 

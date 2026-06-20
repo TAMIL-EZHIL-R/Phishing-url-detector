@@ -29,7 +29,7 @@ The system automatically captures URLs when a user hovers over a link and instan
 ## 🧠 Methodology
 
 ### 1. Data Collection
-- Dataset collected from Kaggle containing phishing and legitimate URLs  
+- Dataset collected from Kaggle containing phishing and legitimate URL  
 
 ### 2. Feature Engineering
 Extracted features such as:
